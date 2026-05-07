@@ -12,4 +12,5 @@ A Twitch moderation bot designed for automated chat management and security.
 
 ## Project Information
 
-This repository contains a curated selection of source code. To protect proprietary assets and brand-exclusive intellectual property, the full codebase is not publicly available.
+This repository contains a curated selection of source code.
+To protect proprietary assets and brand-exclusive intellectual property, the full codebase is not publicly available.
